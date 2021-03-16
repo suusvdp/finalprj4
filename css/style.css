@@ -1,3 +1,10 @@
-header {text-align: center}
+header {text-align: center;color: white; font-family: 'Share Tech Mono', monospace;text-shadow: 2px 2px 5px pink;}
+
+
 .container {text-align: centre;}
-body { background-image: url('images/background1.jpg');} 
+body { 
+	background-image: url( "../images/background1.jpg");
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-size: cover;
+} 
