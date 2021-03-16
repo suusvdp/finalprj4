@@ -8,3 +8,4 @@ body {
 	background-attachment: fixed;
     background-size: cover;
 } 
+.container {background-color: darkgrey; font-size: 40px;font-family: 'Share Tech Mono', monospace;text-shadow: 2px 2px 5px pink; text-align: center; vertical-align: middle}
