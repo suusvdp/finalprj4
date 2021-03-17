@@ -42,7 +42,7 @@ body {
 
 
 .my-card-img-top {
-  margin: 5px;
+  margin: 50px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
@@ -53,11 +53,13 @@ align-content: center
 .my-card-body {
   padding: 15px;
   text-align: center;
-  margin: 5px;
+  margin: 50px;
   border: 1px solid #ccc;
   width: 180px;
+	background-color: #CCCCCC
 
 }
+
 
 
  
