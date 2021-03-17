@@ -20,7 +20,7 @@ body {
 	         vertical-align: middle
 }
 
-.card-body {background-color: #B6A7C5}
+.card-body {background-color: #8D55C5}
 .card-text {color: white;}
 .btn-info {background-color: #03EBFF; 
 	          border-color: aqua; 
@@ -28,5 +28,14 @@ body {
 	          border-left-color: #2AAEE0;
 	
 
+}
+
+.footer {font-size: 12px;
+	     font-family: 'Share Tech Mono', monospace;
+	     text-shadow: 2px 2px 5px pink; 
+	     text-align: center; 
+	     vertical-align: middle;
+		 background-color: #EFDCE5; 
+       
 }
 
