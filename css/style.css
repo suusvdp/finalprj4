@@ -1,11 +1,32 @@
-header {text-align: center;color: white; font-family: 'Share Tech Mono', monospace;text-shadow: 2px 2px 5px pink;}
+header {text-align: center;
+	    color: white; 
+	    font-family: 'Share Tech Mono', monospace; 
+	    text-shadow: 2px 2px 5px pink;
+}
 
 
-.container {text-align: centre;}
+
 body { 
 	background-image: url( "../images/background1.jpg");
     background-repeat: no-repeat;
 	background-attachment: fixed;
     background-size: cover;
 } 
-.container {background-color: darkgrey; font-size: 40px;font-family: 'Share Tech Mono', monospace;text-shadow: 2px 2px 5px pink; text-align: center; vertical-align: middle}
+
+.container { font-size: 40px;
+	         font-family: 'Share Tech Mono', monospace;
+	         text-shadow: 2px 2px 5px pink; 
+	         text-align: center; 
+	         vertical-align: middle
+}
+
+.card-body {background-color: #B6A7C5}
+.card-text {color: white;}
+.btn-info {background-color: #03EBFF; 
+	          border-color: aqua; 
+	          border-top-color: #2AAEE0; 
+	          border-left-color: #2AAEE0;
+	
+
+}
+
