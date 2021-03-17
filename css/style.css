@@ -35,7 +35,35 @@ body {
 	     text-shadow: 2px 2px 5px pink; 
 	     text-align: center; 
 	     vertical-align: middle;
-		 background-color: #EFDCE5; 
+		 background-color: #F8DFEC; 
        
 }
 
+
+
+.card-img-top {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+	
+}
+
+.my-card-body {
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+
+}
+
+
+ 
+
+
+
+
+
+
+         
