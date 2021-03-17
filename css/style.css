@@ -41,11 +41,12 @@ body {
 
 
 
-.card-img-top {
+.my-card-img-top {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
+align-content: center
 	
 }
 
